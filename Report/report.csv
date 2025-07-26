@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1752757926270,1010,Request 1,200,OK,Thread Group 1-1,text,true,,4757,119,2,2,https://www.blazedemo.com/,1004,0,604
+1752757927280,519,Request 1,200,OK,Thread Group 1-2,text,true,,4757,119,1,1,https://www.blazedemo.com/,514,0,111
+1752757928265,541,Request 1,200,OK,Thread Group 1-3,text,true,,4757,119,1,1,https://www.blazedemo.com/,535,0,123
+1752757929267,532,Request 1,200,OK,Thread Group 1-4,text,true,,4757,119,1,1,https://www.blazedemo.com/,527,0,119
+1752757930266,506,Request 1,200,OK,Thread Group 1-5,text,true,,4757,119,1,1,https://www.blazedemo.com/,506,0,108
+1752757931267,578,Request 1,200,OK,Thread Group 1-6,text,true,,4757,119,1,1,https://www.blazedemo.com/,573,0,116
+1752757932263,570,Request 1,200,OK,Thread Group 1-7,text,true,,4757,119,1,1,https://www.blazedemo.com/,569,0,104
+1752757933267,597,Request 1,200,OK,Thread Group 1-8,text,true,,4757,119,1,1,https://www.blazedemo.com/,592,0,163
+1752757934270,509,Request 1,200,OK,Thread Group 1-9,text,true,,4757,119,1,1,https://www.blazedemo.com/,504,0,110
+1752757935264,520,Request 1,200,OK,Thread Group 1-10,text,true,,4757,119,1,1,https://www.blazedemo.com/,515,0,111

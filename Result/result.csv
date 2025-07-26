@@ -1,0 +1,5 @@
+
+1752924273241,1011,HTTP Request1,200,OK,Thread Group1 1-1,text,true,,4761,119,1,1,https://www.blazedemo.com/,1002,0,598
+1752924274284,377,HTTP Request2,200,OK,Thread Group1 1-1,text,true,,4761,119,1,1,https://www.blazedemo.com/,363,0,0
+1752924274662,370,HTTP Request3,200,OK,Thread Group1 1-1,text,true,,4761,119,1,1,https://www.blazedemo.com/,361,0,0
+1752924275033,365,HTTP Request4,200,OK,Thread Group1 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,357,0,0

@@ -1,0 +1,2 @@
+cardType,creditCard,expiryDate,billToFirstName,billToLastName,billAddress1,billAddress2,billCity,billState,billZip,billCountry
+Visa,999 9999 9999 9999,3-Dec,test,test,test@dummy.com,test,test,test,test,test
